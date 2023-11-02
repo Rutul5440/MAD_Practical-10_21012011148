@@ -3,10 +3,6 @@ Add Google Map Activity which displays location which is received in JSON Data i
 
 Output:
 
-![WhatsApp Image 2023-10-30 at 9 53 54 PM](https://github.com/P-21710/MAD_Practical-10_ 21012011103/assets/98374171/4a608cea-60bb-4d0c-9ee8-7fd7c9f3fa10)
+![image](https://github.com/Rutul5440/MAD_Practical-10_21012011148/assets/121927117/2acbabc8-36cf-4332-9afc-b17773d69a13)
 
-![WhatsApp Image 2023-10-30 at 9 53 54 PM (1)](https://github.com/P-21710/MAD_Practical-10_21012011103/assets/98374171/b75b2c87-db31-4455-a0f5-304629c6659c)
-
-![WhatsApp Image 2023-10-30 at 9 53 53 PM](https://github.com/P-21710/MAD_Practical-10_21012011103/assets/98374171/be4c48b4-3951-4737-8a18-50602f9a821a)
-
-
+![image](https://github.com/Rutul5440/MAD_Practical-10_21012011148/assets/121927117/c205df41-57b3-4dc1-b17c-8409516f9ea3)
